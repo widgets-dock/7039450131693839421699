@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816329010573",
+    "project_id": "home-novel-comics",
+    "storage_bucket": "home-novel-comics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816329010573:android:40919b20ace983c40b21c4",
+        "android_client_info": {
+          "package_name": "com.udelmucepot.hmnvlcmcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816329010573-pa6henlumm775f23lg540smfn497q80g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhkf7h5JM-ew9J07CVEw9YfCWYa5wiBzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816329010573-pa6henlumm775f23lg540smfn497q80g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
